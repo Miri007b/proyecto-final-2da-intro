@@ -1,8 +1,8 @@
-- Número del equipo:
-- Nombre del equipo:
-- Nombre de todos miembros en el equipo:
-- El título del proyecto:
-- Actualizaciones de la lista de recursos y referencias que están usando para su proyecto final:
+- Número del equipo:13
+- Nombre del equipo:Alfa buena maravilla onda dinamita escuadrón lobo
+- Nombre de todos miembros en el equipo:Karla Tlazalo Vázquez, Mariela Ferré Lebrón, Miriam Ríos Guzmán, Nancy Aurora Angeles Damián
+- El título del proyecto:Equidad de genero 
+- Actualizaciones de la lista de recursos y referencias que están usando para su proyecto final: El enfoque sigue siendo el mismo.
 - ¿Sobre qué les gustaría recibir sugerencias o ayuda de las moderadoras? Recuerdan que esta es la penúltima entrega antes de la entrega final y la presentación final, ¡así que aprovechan la oportunidad de recibir retroalimentación!
 
 No se olviden de subir:
